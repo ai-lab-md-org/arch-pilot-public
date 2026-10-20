@@ -31,7 +31,7 @@ Es lo que pide el paso 6 del ADR 0002: prueba la regla de verdad, sin mergear na
 
 ## Decisión
 
-Se agrega UN archivo de texto en `docs/arch-pilot/` y nada más. No se toca código, ni datos, ni servicios, ni el deploy.
+Se agregan DOS archivos de texto en `docs/arch-pilot/` (cambio hecho DESPUÉS del OK, a propósito: el check tiene que frenar este PR). No se toca código.
 
 ## Objeciones del staff
 
